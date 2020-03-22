@@ -1,8 +1,8 @@
 # iNeuOS
-  iNeuOS Industrial Internet
-  Website：http://www.ineuos.net
-  Demo：http://demo.ineuos.net
-  QQGroup：54256083
+  iNeuOS Industrial Internet <br>
+  Website：http://www.ineuos.net <br>
+  Demo：http://demo.ineuos.net <br>
+  QQGroup：54256083 <br>
   QQ：504547114 （WeChat）
 
 # iNeuOS 专注打造云端操作系统，提供全新解决方案
