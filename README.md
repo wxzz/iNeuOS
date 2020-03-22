@@ -36,5 +36,8 @@ iNeuOS Industrial Internet
 
 # 移动APP(iNeuApp)
   视图建模（iNeuView）出来的视图可以直 接在移动APP上显示，解决数据链路闭环的最后“一公里”的问题。
- 
-![iNeuOS体系](https://github.com/wxzz/iNeuOS/blob/master/image/iNeuOS%20%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%80%E4%BD%93%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%88%E4%B8%89%E7%BB%B4%E6%99%BA%E6%85%A7%E5%B1%8F%EF%BC%89-v1.4/%E5%B9%BB%E7%81%AF%E7%89%872.PNG)
+
+# 图形介绍
+![iNeuOS工业互联网](https://github.com/wxzz/iNeuOS/blob/master/image/iNeuOS%20%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%80%E4%BD%93%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%88%E4%B8%89%E7%BB%B4%E6%99%BA%E6%85%A7%E5%B1%8F%EF%BC%89-v1.4/%E5%B9%BB%E7%81%AF%E7%89%872.PNG)
+
+![iNeuOS工业互联网](https://github.com/wxzz/iNeuOS/blob/master/image/iNeuOS%20%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%80%E4%BD%93%E5%8C%96%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%EF%BC%88%E4%B8%89%E7%BB%B4%E6%99%BA%E6%85%A7%E5%B1%8F%EF%BC%89-v1.4/%E5%B9%BB%E7%81%AF%E7%89%874.PNG)
