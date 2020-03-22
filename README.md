@@ -5,6 +5,7 @@
   QQGroup：54256083 <br>
   QQ：504547114 （WeChat）
   Blog：http://www.cnblogs.com/lsjwq
+  Github：https://github.com/wxzz/iNeuOS
 
 # iNeuOS 专注打造云端操作系统，提供全新解决方案
   核心组件包括：边缘网关（ iNeuLink） 、设备容器（ iNeuKernel） 、 视图建模（iNeuView） 、机器学习（ iNeuAI）、分析展示（iNeuDA）、移动APP（iNeuApp） ；
