@@ -231,6 +231,6 @@
 ![能源管理](https://github.com/wxzz/iNeuOS/blob/master/image/31.%E8%83%BD%E6%BA%90%E7%AE%A1%E7%90%86.jpeg)
 
 # 联系方式
-**QQ**:504547114。
-**网站**:[https://www.ineuos.net](https://www.ineuos.net)
-**开发团队**：iNeuOS Team
+**QQ**:504547114。<br/>
+**网站**:[https://www.ineuos.net](https://www.ineuos.net)<br/>
+**开发团队**：iNeuOS Team。<br/>
